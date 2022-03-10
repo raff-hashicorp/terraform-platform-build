@@ -2,7 +2,7 @@
 // Modules
 module "workspace" {
   source  = "app.terraform.io/bns-terraform-workshop-rs/workspace/tfc"
-  version = "0.2.0-alpha"
+  version = "0.2.1-alpha"
 
   appid = "APP-ABCD"
   hostname = "app.terraform.io"
